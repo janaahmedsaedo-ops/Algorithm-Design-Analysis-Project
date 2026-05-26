@@ -1,4 +1,4 @@
-# Algorithm Design & Analysis — CSE245 Project
+# Algorithm Design & Analysis Project
 
 A collection of algorithm implementations covering Divide and Conquer, Dynamic Programming,
 Greedy, Brute Force, and Iterative Improvement techniques.
