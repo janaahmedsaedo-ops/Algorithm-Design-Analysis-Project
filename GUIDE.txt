@@ -1,0 +1,11 @@
+In Codes File, you will find each task backend code and (frontend if exists)
+
+=========================================================================================
+
+In Report, you will find each task report and the FULL REPORT for ALL tasks (separate reports just in-case the full report missing something etc,
+
+=========================================================================================
+
+In Video, you will find a notebook with the video drive link (1.6 GB) we couldn't upload it on lms, sorry.
+
+ 
